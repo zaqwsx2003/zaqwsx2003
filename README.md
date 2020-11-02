@@ -9,7 +9,7 @@
 >(주)새움
 >
 >Saewoom, Inc.
-
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 <details>
 <summary>🗨 공부하는 언어 (studying language)</summary>
 <div markdown="1">
