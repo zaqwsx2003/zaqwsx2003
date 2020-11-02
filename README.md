@@ -2,6 +2,7 @@
 
 # 💒 소속 (Affiliation)
 >한양공업고등학교, 인공지능소프트웨어과
+
 >Hanyang Technical High School,Artificial Intelligence Software Department
  
  
