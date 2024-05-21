@@ -1,14 +1,14 @@
 >[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzaqwsx2003&count_bg=%23669ED9&title_bg=%2391E30A&icon=protocols-dot-io.svg&icon_color=%23058A74&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
- <h1>Reset 2021-08-30</h1>
 
  <details>
 
   <summary><b>🏫 소속 (Affiliation)</b></summary>
   <hr>
   <ul>
-    <li>한양공업고등학교, 인공지능소프트웨어과</li>
+    <li>한양공업고등학교, 인공지능소프트웨어과 - 졸업 </li>
     <ul><li>Hanyang Technical High School, AI Software Department</li></ul>
-    <li>(주)새움</li>
+    <li>(주)새움 - 퇴사 </li>
+    <li>3군단 23경비여단 해안감시대 영상감시반 - 전역 </li>
     <ul><li>Saewoom, Inc.</li></ul>
   </ul>
   <hr>
