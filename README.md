@@ -9,7 +9,6 @@
     <ul><li>Hanyang Technical High School, AI Software Department</li></ul>
     <li>(주)새움 - 퇴사 </li>
    <ul><li>Saewoom, Inc.</li></ul>
-    <li>3군단 23경비여단 해안감시대 영상감시반 - 전역 </li>
   
   </ul>
   <hr>
